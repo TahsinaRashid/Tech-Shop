@@ -84,7 +84,7 @@ export default function Footer() {
         </div>
         
         {/* 2. Bottom Bar (Copyright) */}
-        <div className="mt-8 text-center md:flex justify-between items-center">
+        <div className="mt-8 text-center md:flex  justify-between ">
           <p className="text-sm text-gray-200">
             &copy; {new Date().getFullYear()} TechShop. All Rights Reserved.
           </p>

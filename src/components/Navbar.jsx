@@ -32,7 +32,7 @@ export default function Navbar() {
         <div className="hidden md:flex space-x-4 items-center">
           {isLoggedIn ? (
             <div className="relative group">
-              <button className="px-4 py-2 bg-blue-600 text-white rounded-md">
+              <button className="px-4 py-2 bg-purple-600 text-white rounded-md">
                 {session.user?.name ?? session.user?.email} 
               </button>
               <div className="absolute right-0 mt-2 w-44 bg-white shadow-md rounded-md p-2 opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto transition">
