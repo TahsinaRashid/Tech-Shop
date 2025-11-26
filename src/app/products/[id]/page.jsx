@@ -56,7 +56,7 @@ import { useParams } from "next/navigation";
 import { useProduct } from "@/context/ProductContext";
 
 export default function ProductDetailsPage() {
-  const { id } = useParams(); // URL থেকে product id
+  const { id } = useParams(); 
   const { products } = useProduct(); // Context থেকে products
   const product = products.find((p) => p.id === id); // ID দিয়ে খোঁজা
 

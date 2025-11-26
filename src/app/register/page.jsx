@@ -24,7 +24,7 @@ export default function RegisterPage() {
   };
 
   return (
-    <div className="max-w-md mx-auto mt-10 p-6">
+    <div className="max-w-md mx-auto mt-5 p-6">
       <h2 className="text-2xl font-bold mb-4 text-center">Register</h2>
       <form onSubmit={handleRegister} className="flex flex-col gap-3">
         <input type="text" placeholder="Full Name" value={name} onChange={e => setName(e.target.value)} className="border px-3 py-2 rounded" required />

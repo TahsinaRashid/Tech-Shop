@@ -51,10 +51,10 @@ function FeaturedCategories() {
 // === 3. TOP DEALS & BESTSELLERS SECTION ===
 function TopDeals() {
   const deals = [
-    { name: "RTX 4070 Graphics Card", price: 599.99, oldPrice: 659.99, img: "/download (9).jpeg" },
-    { name: "Wireless Gaming Mouse", price: 49.99, oldPrice: 79.99, img: "/mouse.jpg" },
-    { name: "Smart Home Hub 2.0", price: 129.00, oldPrice: 150.00, img: "/download (10).jpeg" },
-    { name: "Mechanical Keyboard", price: 95.00, oldPrice: 110.00, img: "/download (11).jpeg" },
+    { name: "RTX 4070 Graphics Card", price: 84.5, oldPrice: 90, img: "/download (9).jpeg" },
+    { name: "Wireless Gaming Mouse", price: 1.5, oldPrice: 1.9, img: "/mouse.jpg" },
+    { name: "Smart Home Hub 2.0", price: 4.5, oldPrice: 4.7, img: "/download (10).jpeg" },
+    { name: "Mechanical Keyboard", price: 6.5, oldPrice: 10, img: "/download (11).jpeg" },
   ];
 
   return (

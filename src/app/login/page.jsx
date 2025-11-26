@@ -16,7 +16,7 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="max-w-md mx-auto mt-5 p-6 flex flex-col gap-2">
+    <div className=" max-w-md mx-auto mt-5 p-6 flex flex-col gap-2">
       <h2 className="text-2xl font-bold text-center">Login</h2>
 
       <button
