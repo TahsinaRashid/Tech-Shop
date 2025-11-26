@@ -4,7 +4,7 @@ Tech-Shop is a simple and clean e-commerce application built with Next.js 14, pr
 Products are managed through a global ProductContext and data is stored in localStorage - making the project perfect for learning state management and dynamic routing.
 
 🚀 Live Demo:
-🔗 https:https://tech-shop-prapti.netlify.app/
+🔗 https://tech-shop-prapti.netlify.app/
 
 🚀GitHub Repo:
 🔗 https://github.com/TahsinaRashid/Tech-Shop
