@@ -16,10 +16,13 @@ Products are managed through a global ProductContext and data is stored in local
 
 
 ## Technologies Used
-- Next.js
+- NextJS
 - React
+- JavaScript
 - Tailwind CSS
-- Context API 
+- Context API
+- ExpressJS
+- NextAuth
 
 ## How to Use
 ### 🚀 Getting Started (Local Setup)
